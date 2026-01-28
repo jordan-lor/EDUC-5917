@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1833f0d2-01be-420f-9b93-e3a93c6d3b3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/.idea/turnjs4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/jGestures-license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/jgestures.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/jquery-ui-1.8.20.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/jquery.min.1.7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/extras/modernizr.2.5.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/compress.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/hash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/scissor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/scissor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/turn.html4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/turn.html4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/turn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/turn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/lib/zoom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/css/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/js/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/basic/pages/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/css/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/css/jquery.ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/css/jquery.ui.html4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/js/docs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pages/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/covers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/covers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/left-border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/right-border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/tab-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/tab-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/docs/pics/tab-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/css/double-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/double-page/pages/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/css/jquery.ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/css/jquery.ui.html4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/css/magazine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/js/magazine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/1-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/1-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/1-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/10-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/10-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/10-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/11-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/11-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/11-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/12-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/12-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/12-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/2-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/2-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/2-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/3-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/3-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/3-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/4-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/4-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/4-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/5-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/5-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/5-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/6-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/6-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/6-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/7-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/7-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/7-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/8-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/8-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/8-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/9-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/9-regions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/9-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pages/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pics/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pics/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pics/zoom-icons-editable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pics/zoom-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/pics/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/magazine/slider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/css/jquery.ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/css/jquery.ui.html4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/css/steve-jobs-html4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/css/steve-jobs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/fonts/Stempel-Garamond-W01-Roman.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/js/steve-jobs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page101.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page102.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page103.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page104.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page105.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page106.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page107.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page108.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page109.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page110.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page26.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page29.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page32.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page33.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page35.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page36.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page37.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page38.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page39.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page41.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page43.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page44.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page45.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page46.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page47.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page48.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page49.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page51.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page52.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page53.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page54.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page56.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page57.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page58.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page59.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page60.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page61.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page62.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page63.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page64.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page65.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page66.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page67.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page68.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page69.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page70.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page71.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page72.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page73.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page74.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page75.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page76.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page77.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page78.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page79.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page80.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page81.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page82.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page83.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page84.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page85.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page86.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page87.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page88.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page89.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page90.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page91.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page92.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page93.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page94.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page95.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page96.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page97.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page98.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/page99.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pages/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/book-covers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/book-covers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/books.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/collegue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/gradient-page-left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/gradient-page-right.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/highschool.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/highschool2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/pages-depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/spine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/samples/steve-jobs/pics/young.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turnjs4/turnjs4-api-docs.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="38u1fC243Ax1EvQoq24jkJqIQlp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.30387.83" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1833f0d2-01be-420f-9b93-e3a93c6d3b3b" name="Changes" comment="" />
+      <created>1769634743298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769634743298</updated>
+      <workItem from="1769634745653" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

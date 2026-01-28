@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Color Match Game</title>
+
+    <style>
+        /* ===== Page background ===== */
+        body {
+            font-family: "Comic Sans MS", "Arial Rounded MT Bold", Arial, sans-serif;
+            background: linear-gradient(135deg, #fef6e4, #e0f7fa);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        /* ===== Main game card ===== */
+        .game-card {
+            background: #ffffff;
+            border: 6px solid #ffd166;
+            border-radius: 25px;
+            padding: 2rem 2.5rem;
+            width: 90%;
+            max-width: 500px;
+            text-align: center;
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 1.5rem;
+        }
+
+        /* ===== Color prompt ===== */
+        #color-name {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin: 1.5rem 0;
+            padding: 0.75rem;
+            border: 4px dashed #ccc;
+            border-radius: 15px;
+        }
+
+        /* ===== Buttons ===== */
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.25rem;
+            margin-top: 1.5rem;
+        }
+
+        .color-btn {
+            height: 120px;
+            border-radius: 20px;
+            border: 5px solid #ffffff;
+            cursor: pointer;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .color-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .color-btn:active {
+            transform: scale(0.97);
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        /* ===== Feedback message ===== */
+        #message {
+            font-size: 1.7rem;
+            margin-top: 1.5rem;
+            min-height: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="game-card">
+
+    <h1>🎨 Color Match!</h1>
+    <div class="subtitle">Tap the color that matches the word</div>
+
+    <div id="color-name">RED</div>
+
+    <div class="buttons">
+        <button class="color-btn" style="background: #ef476f;" onclick="checkColor('red')"></button>
+        <button class="color-btn" style="background: #118ab2;" onclick="checkColor('blue')"></button>
+        <button class="color-btn" style="background: #06d6a0;" onclick="checkColor('green')"></button>
+        <button class="color-btn" style="background: #ffd166;" onclick="checkColor('yellow')"></button>
+    </div>
+
+    <div id="message"></div>
+
+</div>
+
+<script>
+    const colors = ['red', 'blue', 'green', 'yellow'];
+    let currentColor = '';
+
+    function pickColor() {
+        currentColor = colors[Math.floor(Math.random() * colors.length)];
+        const colorName = document.getElementById('color-name');
+        colorName.textContent = currentColor.toUpperCase();
+        colorName.style.color = currentColor;
+        document.getElementById('message').textContent = '';
+    }
+
+    function checkColor(selectedColor) {
+        const message = document.getElementById('message');
+        if (selectedColor === currentColor) {
+            message.textContent = '🎉 Great job!';
+            message.style.color = '#06d6a0';
+            setTimeout(pickColor, 1000);
+        } else {
+            message.textContent = '❌ Try again!';
+            message.style.color = '#ef476f';
+        }
+    }
+
+    pickColor();
+</script>
+
+</body>
+</html>
